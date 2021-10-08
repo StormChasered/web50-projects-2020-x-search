@@ -1,0 +1,62 @@
+#word {
+  position: fixed;
+  font-family: Arial;
+  margin-left: 1024px;
+  margin-top: -80px;
+  color: #4189db;
+}
+
+#BackToSearch {
+  margin-left: 1050px;
+}
+
+#ImageSearchButton {
+  text-align: center;
+}
+
+#logo, magnify, searchbar, ImageSearchButton {
+  margin-top: 120px;
+}
+
+#mic, Camera {
+  margin-top: 310px;
+}
+
+#Camera, #Magnify2 {
+  height: 20px;
+  position: fixed;
+}
+
+#Magnify2 {
+  margin-left: 490px;
+}
+
+#mic {
+  margin-left: 450px;
+}
+
+#Camera, #Magnify2 {
+  margin-top: 315px;
+}
+
+#Camera {
+  margin-left: 415px;
+}
+
+#searchbar {
+  width: 380px;
+  padding-right: 120px;
+  padding-left: 60px;
+}
+
+#magnify {
+  height: 20px;
+  margin-left: -430px;
+}
+
+#bottomthing2 {
+  position: fixed;
+  margin-left: -710px;
+  margin-top: 870px;
+}
+/*# sourceMappingURL=image.css.map */

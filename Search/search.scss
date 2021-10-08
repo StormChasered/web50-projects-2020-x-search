@@ -1,0 +1,96 @@
+
+div { 
+    text-align: center;
+    margin-top: -35px;
+}
+body {
+    text-align: center;
+}
+img {
+    margin-top: 185px;
+    margin-left: -415px;
+}
+.searchbar {
+    height: 35px; 
+    width: 510px; 
+    padding: 5px;
+    border: 1px solid rgb(215, 215, 219);
+    padding-left: 43px;
+    padding-right: 40px;
+    outline: none;
+    background: transparent;
+    font-size: 17px;
+    
+}
+.searchbar:hover
+{
+    box-shadow: 1px 1px 8px lightgray;
+}
+.magnify {
+    height: 20px;
+    margin-left: -455px;
+}
+
+#logo {
+    text-align: center;
+}
+#SearchButton {
+    margin-right: 250px;
+}
+.button:hover {
+    border: 1px solid rgb(206, 204, 204);
+}
+#SearchButton {
+    margin-right: 150px;
+    margin-top: 10px;
+}
+.button {
+    width: 130px;
+    height: 35px;
+    font-size: 14px;
+    font-family: Arial;
+    color: rgb(80, 80, 80);
+    background-color: rgba(231, 236, 231, 0.418);
+    border: none;
+    cursor: pointer;
+}
+#LuckyButton {
+    position: fixed;
+    margin-top: -35px;
+    margin-left: 5px;
+    width: 140px;
+}
+#mic {
+    position: fixed;
+    height: 32px;
+    margin-left: 515px;
+    margin-top: 375px;
+}
+#about {
+    margin-left: -670px;
+}
+.extra {
+    position: fixed;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Arial;
+    margin-top: 15px;
+    color: rgb(109, 109, 109);
+}
+.extra:hover {
+    text-decoration: underline;
+}
+#store {
+    margin-left: -610px;
+}
+#bottomthing {
+    position: fixed;
+    margin-left: -700px;
+    margin-top: 870px;
+}
+#image {
+    margin-left: 930px;
+}
+#advance {
+    margin-left: 1060px;
+}

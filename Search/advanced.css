@@ -1,0 +1,164 @@
+#BackToSearch2 {
+  margin-top: 15px;
+  margin-left: 800px;
+}
+
+#logo2 {
+  margin-left: -950px;
+  margin-top: -5px;
+  position: fixed;
+}
+
+#label {
+  margin-top: 80px;
+  margin-left: 35px;
+  position: fixed;
+  font-family: Arial, Helvetica;
+  font-size: 20px;
+  color: #d83b3b;
+}
+
+#Line {
+  position: fixed;
+  margin-left: -985px;
+  margin-top: 70px;
+}
+
+#Line2 {
+  position: fixed;
+  margin-left: 115px;
+  margin-top: 70px;
+}
+
+#find {
+  position: fixed;
+  font-size: 16px;
+  margin-top: 176px;
+  margin-left: 35px;
+  color: #350505;
+  font-family: Arial, Helvetica;
+}
+
+.specifications {
+  position: fixed;
+  font-size: 13px;
+  margin-left: 35px;
+  color: black;
+  font-family: Arial, Helvetica;
+}
+
+#text1 {
+  margin-top: 220px;
+}
+
+#text2 {
+  margin-top: 225px;
+}
+
+#text3 {
+  margin-top: 260px;
+}
+
+#text4 {
+  margin-top: 305px;
+}
+
+#text5 {
+  margin-top: 350px;
+}
+
+#text6 {
+  color: black;
+  font-family: Arial, Helvetica;
+  margin-top: 350px;
+  position: fixed;
+  margin-left: 490px;
+  font-size: 13px;
+}
+
+#searchbar1 {
+  margin-top: 215px;
+  margin-right: 275px;
+  position: fixed;
+}
+
+.searchbars {
+  width: 570px;
+  height: 25px;
+  font-size: 14;
+  margin-left: -745px;
+  border: 1px solid #d4d4d4;
+  border-top-color: #b6b4b4;
+  outline: none;
+  padding-left: 8px;
+}
+
+#searchbar2 {
+  margin-top: 260px;
+  position: fixed;
+}
+
+#searchbar3 {
+  margin-top: 300px;
+  position: fixed;
+}
+
+#searchbar4 {
+  margin-top: 340px;
+  position: fixed;
+}
+
+#searchbar5 {
+  margin-top: 380px;
+  position: fixed;
+  width: 245px;
+}
+
+#searchbar55 {
+  margin-top: 380px;
+  position: fixed;
+  width: 245px;
+  margin-left: -420px;
+  border: 1px solid #d4d4d4;
+  border-top-color: #b6b4b4;
+  outline: none;
+  padding-left: 8px;
+  height: 25px;
+}
+
+#heading {
+  position: fixed;
+  margin-top: 180px;
+  margin-left: 790px;
+  color: #777;
+  font-weight: 700;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+#explain {
+  position: fixed;
+  margin-left: -150px;
+  margin-top: 210px;
+}
+
+#other {
+  position: fixed;
+  margin-left: -960px;
+  margin-top: 428px;
+}
+
+#AdvanceButton {
+  cursor: pointer;
+  font-size: 11px;
+  font-weight: bold;
+  background-color: #4d90fe;
+  color: #eeeeee;
+  border: black;
+  padding: 10px;
+  width: 130px;
+  position: fixed;
+  margin-top: 815px;
+  margin-left: -290px;
+}
+/*# sourceMappingURL=advanced.css.map */
